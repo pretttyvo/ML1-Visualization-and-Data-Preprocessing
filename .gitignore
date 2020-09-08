@@ -1,6 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 /Lab\ 1/Data/database.csv
+/Lab\ 1/Data/Dummy_coded_database.csv
+/Lab\ 1/Data/test_data_set.csv
+/Lab\ 1/Data/training_data_set.csv
 /Lab\ 1/Data/SHR76_17.csv
 /Lab\ 1/Data/UCR65_18.csv
-Lab 1/Jupyter Notebooks/.ipynb_checkpoints/
-Lab 1/Jupyter Notebooks/.ipynb_checkpoints
-.ipynb_checkpoints
+
