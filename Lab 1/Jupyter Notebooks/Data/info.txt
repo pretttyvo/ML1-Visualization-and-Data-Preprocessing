@@ -1,0 +1,1 @@
+This folder is to hold the csv data file. Due to its large size, its been placed in the gitignore, but can be downloaded at the following site: https://www.kaggle.com/murderaccountability/homicide-reports
